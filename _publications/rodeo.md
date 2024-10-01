@@ -1,7 +1,7 @@
 ---
 title: "RODEO: Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/RODEO
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-21
