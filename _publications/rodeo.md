@@ -3,7 +3,7 @@ title: "RODEO: Robust Outlier Detection via Exposing Adaptive Out-of-Distributio
 collection: publications
 category: conferences
 permalink: /publication/RODEO
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Looking for an adversarially robust anomaly detection? Synthetic outlier samples whose distribution are close to the normal samples, and are diverse, when combined with adversarial training does the work.'
 date: 2024-07-21
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
