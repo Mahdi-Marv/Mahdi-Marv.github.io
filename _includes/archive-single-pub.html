@@ -53,13 +53,13 @@
     {% endif %}
     
     {% if post.authors and post.paperurl and post.slidesurl %}
-      <p style="font-size: smaller">Authors: {{ post.authors }}<br /><br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p style="font-size: smaller"><b>Authors:</b> {{ post.authors }}<br /><br /><br/><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.authors and post.paperurl %}
-      <p style="font-size: smaller">Authors: {{ post.authors }}<br /><br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p style="font-size: smaller"><b>Authors:</b> {{ post.authors }}<br/><br/><br/><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.authors and post.slidesurl %}
-      <p style="font-size: smaller">Authors: {{ post.authors }}<br /><br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p style="font-size: smaller"><b>Authors:</b> {{ post.authors }}<br /><br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.authors %}
-      <p style="font-size: smaller">Authors: {{ post.authors }}</p>
+      <p style="font-size: smaller"><b>Authors:</b> {{ post.authors }}</p>
     {% elsif post.paperurl %}
       <p style="font-size: smaller"><a href=" {{ post.paperurl }} ">Download Paper</a></p>
     {% elsif post.slidesurl %}
