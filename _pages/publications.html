@@ -13,7 +13,6 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-Yoooow Boooy
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -28,6 +27,7 @@ Yoooow Boooy
     {% endfor %}
   {% endfor %}
 {% else %}
+Brutha Oooow
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
