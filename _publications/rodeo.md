@@ -8,8 +8,9 @@ date: 2024-07-21
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://proceedings.mlr.press/v235/mirzaei24a.html'
-authors: 'Hossein Mirzaei, Mohammad Jafari, Hamid Reza Dehbashi, **Ali Ansari**, Sepehr Ghobadi, Masoud Hadi, Arshia Soltani Moakhar, Mohammad Azizmalayeri, [Mahdieh Soleymani Baghshah](https://sharif.edu/~soleymani/), [Mohammad Hossein Rohban](https://sharif.ir/~rohban/)
-. &quot;Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples&quot; <i>ICML</i>. 1(1).'
+authors: 'Hossein Mirzaei, Mohammad Jafari, Hamid Reza Dehbashi, <strong>Ali Ansari</strong>, Sepehr Ghobadi, Masoud Hadi, Arshia Soltani Moakhar, Mohammad Azizmalayeri,
+<a href="https://sharif.edu/~soleymani/">Mahdieh Soleymani Baghshah</a>,
+<a href="https://sharif.ir/~rohban/">Mohammad Hossein Rohban</a>'
 ---
 
 ![Main figure of the paper](../images/rodeo_figure.png)
