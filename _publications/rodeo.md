@@ -4,7 +4,7 @@ collection: publications
 # category: manuscripts
 permalink: /publication/RODEO
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-06
+date: 2024-07-21
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://proceedings.mlr.press/v235/mirzaei24a.html'
