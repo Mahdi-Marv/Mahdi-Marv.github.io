@@ -12,6 +12,6 @@ authors: 'Hossein Mirzaei, Mohammad Jafari, Hamid Reza Dehbashi, **Ali Ansari**,
 . &quot;Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples&quot; <i>ICML</i>. 1(1).'
 ---
 
-![Main figure of the paper](images/rodeo_figure.png)
+![Main figure of the paper](../images/rodeo_figure.png)
 
 In this work, we designed a novel method to detect outliers in adversarial settings. We were able to achieve state-of-the-art results on various tasks of outlier detection by generating adaptive outliers and expose them while training the anomaly detector adversarially.
