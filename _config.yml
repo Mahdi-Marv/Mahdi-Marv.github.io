@@ -23,9 +23,8 @@ author:
   # Biographic information
   avatar           : "AliAnsari.jpg"
   name             : "Ali Ansari"
-  pronouns         : # example: "she/her"  
   bio              : "B.Sc. Computer Engineering @ Sharif University of Technology"
-  location         : "Iran"
+  location         : "Tehran, Iran"
   employer         : "Sharif University of Technology"
   uri              : # URL
   email            : "alians310322@gmail.com"

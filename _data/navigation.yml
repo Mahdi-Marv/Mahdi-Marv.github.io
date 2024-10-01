@@ -18,7 +18,7 @@ main:
   #   url: /portfolio/
         
   - title: "Writings"
-    url: /writings/
+    url: /year-archive/
     
   - title: "CV"
     url: /files/Ali_Ansari_CV.pdf
