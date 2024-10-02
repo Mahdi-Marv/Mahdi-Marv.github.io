@@ -1,5 +1,5 @@
 ---
-title: "A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts (Submitted to ICLR 2025)"
+title: "A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts"
 collection: publications
 category: conferences
 permalink: /publications/style-shift
