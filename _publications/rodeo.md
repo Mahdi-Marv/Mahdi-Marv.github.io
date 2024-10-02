@@ -2,7 +2,7 @@
 title: "RODEO: Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples"
 collection: publications
 category: conferences
-permalink: /publication/RODEO
+permalink: /publications/RODEO
 excerpt: 'In this work, we designed a novel method to detect outliers in adversarial settings. We were able to achieve state-of-the-art results on various tasks of outlier detection by generating adaptive outliers and expose them while training the anomaly detector adversarially.'
 date: 2024-07-21
 venue: 'ICML'
