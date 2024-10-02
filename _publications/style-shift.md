@@ -1,11 +1,11 @@
 ---
-title: "A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts"
+title: "A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts (Submitted to ICLR 2025)"
 collection: publications
 category: conferences
-permalink: /publication/style-shift
+permalink: /publications/style-shift
 excerpt: 'In this work, we designed a novelty detection method which is robust to style shifts in the data distribution. By distinguishing between core features and style features and using a teacher-student scheme, we were able to achieve state-of-the-art results on various dataset pairs.'
-date: 2024-07-21
-venue: 'ICML'
+date: 2025-01-21
+venue: 'ICLR'
 # paperurl: 'https://proceedings.mlr.press/v235/mirzaei24a.html'
 authors: 'Hossein Mirzaei, Mojtaba Nafez, Moein Madadi, Arad Maleki, Mahdi Hajialilue, Zeinab Sadat Taghavi, Sepehr Rezaee, <strong>Ali Ansari</strong>, Bahar Dibaei Nia, Kian Shamsaie, Mohammadreza Salehi, Jafar Habibi, Mackenzie W Mathis,
 <a href="https://sharif.edu/~soleymani/">Mahdieh Soleymani Baghshah</a>,
