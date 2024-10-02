@@ -3,7 +3,7 @@ title: "Scanning Trojaned Models Using Out-of-Distribution Samples"
 collection: publications
 category: conferences
 permalink: /publications/TRODO
-excerpt: 'In this work, we designed a trojan scanning method which is robust in various aspects, including trojan attack type, label mapping, and adversarial robustness of the classifier. We further propose a version of our work which requires no access samples from the model's training distribution.'
+excerpt: "In this work, we designed a trojan scanning method which is robust in various aspects, including trojan attack type, label mapping, and adversarial robustness of the classifier. We further propose a version of our work which requires no access samples from the model's training distribution."
 date: 2024-12-11
 venue: 'NeurIPS'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
