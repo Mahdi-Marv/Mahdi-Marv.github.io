@@ -22,4 +22,5 @@ Generally, I'm interested in designing safe and efficient intelligent systems. D
 * Explainable AI (XAI)
 * Medical Imaging & Healthcare
 * Computer Vision
+* Microeconomics
 

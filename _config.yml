@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AliAnsari.jpg"
+  avatar           : "Mahdi.jpg"
   name             : "Mahdi Hajialilue"
   bio              : "B.Sc. Computer Science @ Sharif University of Technology"
   location         : "Tehran, Iran"
