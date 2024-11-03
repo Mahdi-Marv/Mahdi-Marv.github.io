@@ -8,7 +8,7 @@ date: 2024-12-11
 venue: 'NeurIPS'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://nips.cc/virtual/2024/poster/93781'
-authors: 'Hossein Mirzaei, <strong>Ali Ansari*</strong>, Bahar Dibaei Nia*, Mojtaba Nafez, Moein Madadi, Sepehr Rezaee, Zeinab Sadat Taghavi, Arad Maleki, Kian Shamsaie, Mahdi Hajialilue,
+authors: 'Hossein Mirzaei, Ali Ansari*, Bahar Dibaei Nia*, Mojtaba Nafez, Moein Madadi, Sepehr Rezaee, Zeinab Sadat Taghavi, Arad Maleki, Kian Shamsaie, <strong>Mahdi Hajialilue</strong>,
 Jafar Habibi,
 <a href="https://sabokrou.github.io/">Mohammad Sabokrou</a>,
 <a href="https://sharif.ir/~rohban/">Mohammad Hossein Rohban</a>'
