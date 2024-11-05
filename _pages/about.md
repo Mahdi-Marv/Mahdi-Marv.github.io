@@ -18,7 +18,7 @@ Research Interests
 Generally, I'm interested in designing safe and efficient intelligent systems. Driven by this interest, I enjoy tackling problems on different domains relevant to Trustworthy AI. My main areas of interest are:
 
 * Trustworthy & Safe AI
-* Generative AI
+* Cyber Security
 * Explainable AI (XAI)
 * Medical Imaging & Healthcare
 * Computer Vision
