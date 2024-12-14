@@ -7,7 +7,7 @@ excerpt: 'In this work, we designed a novelty detection method which is robust t
 date: 2025-01-21
 venue: 'Submitted to ICLR'
 # paperurl: 'https://proceedings.mlr.press/v235/mirzaei24a.html'
-authors: 'Hossein Mirzaei, Mojtaba Nafez, Moein Madadi, Arad Maleki, <strong>Mahdi Hajialilue</strong>, Zeinab Sadat Taghavi, Sepehr Rezaee, Ali Ansari, Bahar Dibaei Nia, Kian Shamsaie, Mohammadreza Salehi, Jafar Habibi, Mackenzie W Mathis,
+authors: 'Hossein Mirzaei, Mojtaba Nafez, Moein Madadi*, Arad Maleki*, <strong>Mahdi Hajialilue*</strong>, Zeinab Sadat Taghavi, Sepehr Rezaee, Ali Ansari, Bahar Dibaei Nia, Kian Shamsaie, Mohammadreza Salehi, Jafar Habibi, Mackenzie W Mathis,
 <a href="https://sharif.edu/~soleymani/">Mahdieh Soleymani Baghshah</a>,
 <a href="https://sabokrou.github.io/">Mohammad Sabokrou</a>,
 <a href="https://sharif.ir/~rohban/">Mohammad Hossein Rohban</a>'
