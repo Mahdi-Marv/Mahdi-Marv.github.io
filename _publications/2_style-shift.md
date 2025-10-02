@@ -5,8 +5,8 @@ category: conferences
 permalink: /publications/style-shift
 excerpt: 'In this work, we designed a novelty detection method which is robust to style shifts in the data distribution. By distinguishing between core features and style features and using a teacher-student scheme, we were able to achieve state-of-the-art results on various dataset pairs.'
 date: 2025-01-21
-venue: 'Submitted to ICLR'
-# paperurl: 'https://proceedings.mlr.press/v235/mirzaei24a.html'
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2501.17289'
 authors: 'Hossein Mirzaei, Mojtaba Nafez, Moein Madadi*, Arad Maleki*, <strong>Mahdi Hajialilue*</strong>, Zeinab Sadat Taghavi, Sepehr Rezaee, Ali Ansari, Bahar Dibaei Nia, Kian Shamsaie, Mohammadreza Salehi, Jafar Habibi, Mackenzie W Mathis,
 <a href="https://sharif.edu/~soleymani/">Mahdieh Soleymani Baghshah</a>,
 <a href="https://sabokrou.github.io/">Mohammad Sabokrou</a>,
